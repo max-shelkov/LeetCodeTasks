@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" filepath="$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0041. First Missing Positive/0041. First Missing Positive.iml" filepath="$PROJECT_DIR$/0041. First Missing Positive/0041. First Missing Positive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0061. Rotate List/0061. Rotate List.iml" filepath="$PROJECT_DIR$/0061. Rotate List/0061. Rotate List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0070. Climbing Stairs/0070. Climbing Stairs.iml" filepath="$PROJECT_DIR$/0070. Climbing Stairs/0070. Climbing Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0134. Gas Station/0134. Gas Station.iml" filepath="$PROJECT_DIR$/0134. Gas Station/0134. Gas Station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0139. Word Break/0139. Word Break.iml" filepath="$PROJECT_DIR$/0139. Word Break/0139. Word Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0148. Sort List/0148. Sort List.iml" filepath="$PROJECT_DIR$/0148. Sort List/0148. Sort List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0179. Largest Number/0179. Largest Number.iml" filepath="$PROJECT_DIR$/0179. Largest Number/0179. Largest Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0214. Shortest Palindrome/0214. Shortest Palindrome.iml" filepath="$PROJECT_DIR$/0214. Shortest Palindrome/0214. Shortest Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0229. Majority Element II/0229. Majority Element II.iml" filepath="$PROJECT_DIR$/0229. Majority Element II/0229. Majority Element II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0278.FirstBadVersion/0278.FirstBadVersion.iml" filepath="$PROJECT_DIR$/0278.FirstBadVersion/0278.FirstBadVersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0316. Remove Duplicate Letters/0316. Remove Duplicate Letters.iml" filepath="$PROJECT_DIR$/0316. Remove Duplicate Letters/0316. Remove Duplicate Letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0389. Find the Difference/0389. Find the Difference.iml" filepath="$PROJECT_DIR$/0389. Find the Difference/0389. Find the Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0399. Evaluate Division/0399. Evaluate Division.iml" filepath="$PROJECT_DIR$/0399. Evaluate Division/0399. Evaluate Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0449. Serialize and Deserialize BST/0449. Serialize and Deserialize BST.iml" filepath="$PROJECT_DIR$/0449. Serialize and Deserialize BST/0449. Serialize and Deserialize BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0452. Minimum Number of Arrows to Burst Balloons/0452. Minimum Number of Arrows to Burst Balloons.iml" filepath="$PROJECT_DIR$/0452. Minimum Number of Arrows to Burst Balloons/0452. Minimum Number of Arrows to Burst Balloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0495. Teemo Attacking/0495. Teemo Attacking.iml" filepath="$PROJECT_DIR$/0495. Teemo Attacking/0495. Teemo Attacking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0532. K-diff Pairs in an Array/0532. K-diff Pairs in an Array.iml" filepath="$PROJECT_DIR$/0532. K-diff Pairs in an Array/0532. K-diff Pairs in an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0701. Insert into a Binary Search Tree/0701. Insert into a Binary Search Tree.iml" filepath="$PROJECT_DIR$/0701. Insert into a Binary Search Tree/0701. Insert into a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0704. Binary Search/0704. Binary Search.iml" filepath="$PROJECT_DIR$/0704. Binary Search/0704. Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0713. Subarray Product Less Than K/0713. Subarray Product Less Than K.iml" filepath="$PROJECT_DIR$/0713. Subarray Product Less Than K/0713. Subarray Product Less Than K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0835. Image Overlap - NOT FINISHED/0835. Image Overlap - NOT FINISHED.iml" filepath="$PROJECT_DIR$/0835. Image Overlap - NOT FINISHED/0835. Image Overlap - NOT FINISHED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0859. Buddy Strings/0859. Buddy Strings.iml" filepath="$PROJECT_DIR$/0859. Buddy Strings/0859. Buddy Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0933. Number of Recent Calls/0933. Number of Recent Calls.iml" filepath="$PROJECT_DIR$/0933. Number of Recent Calls/0933. Number of Recent Calls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0980. Unique Paths III/0980. Unique Paths III.iml" filepath="$PROJECT_DIR$/0980. Unique Paths III/0980. Unique Paths III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1009. Complement of Base 10 Integer/1009. Complement of Base 10 Integer.iml" filepath="$PROJECT_DIR$/1009. Complement of Base 10 Integer/1009. Complement of Base 10 Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1094. Car Pooling/1094. Car Pooling.iml" filepath="$PROJECT_DIR$/1094. Car Pooling/1094. Car Pooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1191.K-ConcatenationMaximumSum/1191.K-ConcatenationMaximumSum.iml" filepath="$PROJECT_DIR$/1191.K-ConcatenationMaximumSum/1191.K-ConcatenationMaximumSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1222. Queens That Can Attack the King/1222. Queens That Can Attack the King.iml" filepath="$PROJECT_DIR$/1222. Queens That Can Attack the King/1222. Queens That Can Attack the King.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1288. Remove Covered Intervals/1288. Remove Covered Intervals.iml" filepath="$PROJECT_DIR$/1288. Remove Covered Intervals/1288. Remove Covered Intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1291. Sequential Digits/1291. Sequential Digits.iml" filepath="$PROJECT_DIR$/1291. Sequential Digits/1291. Sequential Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1588. Sum of All Odd Length Subarrays/1588. Sum of All Odd Length Subarrays.iml" filepath="$PROJECT_DIR$/1588. Sum of All Odd Length Subarrays/1588. Sum of All Odd Length Subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1592. Rearrange Spaces Between Words/1592. Rearrange Spaces Between Words.iml" filepath="$PROJECT_DIR$/1592. Rearrange Spaces Between Words/1592. Rearrange Spaces Between Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" filepath="$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" filepath="$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllTasksInLine.iml" filepath="$PROJECT_DIR$/AllTasksInLine.iml" />
+    </modules>
+  </component>
+</project>
