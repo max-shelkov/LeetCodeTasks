@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class Solution {
+
+    //done
+
     public static void main(String[] args) {
         String inputS = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
         Solution solution = new Solution();
