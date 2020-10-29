@@ -5,9 +5,6 @@ public class Solution {
 
         Solution solution = new Solution();
         int[] input = {1,0,0,0,0,1,0,0,1,0};
-//        int[] input = {1,0,0,0};
-//        int[] input = {1,0,0,0,1,0,1};
-//        int[] input = {};
         int res = 0;
         long start = System.currentTimeMillis();
         for (int i = 0; i < 10000000; i++) {
