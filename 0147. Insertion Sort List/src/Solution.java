@@ -4,10 +4,10 @@ public class Solution {
         input.next = new ListNode(2);
         input.next.next = new ListNode(1);
         input.next.next.next = new ListNode(3);
-        while (input != null){
+/*        while (input != null){
             System.out.print(" -> " + input.val);
             input = input.next;
-        }
+        }*/
         Solution solution = new Solution();
         long start = System.currentTimeMillis();
         ListNode res = solution.insertionSortList(input);
