@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0001. Two Sum/0001. Two Sum.iml" filepath="$PROJECT_DIR$/0001. Two Sum/0001. Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0002. Add Two Numbers/0002. Add Two Numbers.iml" filepath="$PROJECT_DIR$/0002. Add Two Numbers/0002. Add Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" filepath="$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" />
