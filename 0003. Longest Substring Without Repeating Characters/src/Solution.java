@@ -11,7 +11,6 @@ public class Solution {
 //        String s = "abcabcbb";
 //        String  s = "bbbbb";
         String  s = "au";
-
         Solution solution = new Solution();
         long start = System.currentTimeMillis();
         int res = solution.lengthOfLongestSubstring(s);
