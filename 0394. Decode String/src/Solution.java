@@ -1,9 +1,7 @@
 public class Solution {
 
     public static void main(String[] args) {
-//        String input = "3[a]2[bc]";
         String input = "3[a2[c]]";
-//        String input = "109[leetcode]";
         Solution solution = new Solution();
         long start = System.currentTimeMillis();
         String res = solution.decodeString(input);
