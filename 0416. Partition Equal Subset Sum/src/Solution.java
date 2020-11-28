@@ -15,27 +15,7 @@ public class Solution {
 
     }
 
-/*
 
-    */
-/* Top down dp. Caching. We have stored the calculated results in a map.  TC - O(numberof elements ^ target) *//*
-
-    Map<String, Boolean> map= new HashMap<>();
-    public boolean canPartition(int[] nums) {
-        int sum = Arrays.stream(nums).sum();
-        return sum%2==1?false: helper(nums, sum/2, 0);
-    }
-    public boolean helper(int[] nums, int target, int currIndex){
-        if(target == 0) return true;
-        if(target< 0) return false;
-        if(currIndex>=nums.length) return false;
-        String key = target+" "+ currIndex;
-        if(!map.containsKey(key)){
-            map.put(key, helper(nums, target-nums[currIndex], currIndex+1) || helper(nums, target, currIndex+1));
-        }
-        return map.get(key);
-    }
-*/
 
     Map<String, Boolean> map= new HashMap<>();
     public boolean canPartition(int[] nums) {
