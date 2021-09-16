@@ -5,10 +5,7 @@ import java.util.Collections;
 public class Solution {
 
     public static void main(String[] args) {
-
-
-
-
+        
         Solution solution = new Solution();
         String input1 = "ab-cd";
         String input2 = "a-bC-dEf-ghIj";
