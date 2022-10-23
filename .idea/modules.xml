@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/0003. Longest Substring Without Repeating Characters/0003. Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/0003. Longest Substring Without Repeating Characters/0003. Longest Substring Without Repeating Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0007. Reverse Integer/0007. Reverse Integer.iml" filepath="$PROJECT_DIR$/0007. Reverse Integer/0007. Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0008. String to Integer (atoi)/0008. String to Integer (atoi).iml" filepath="$PROJECT_DIR$/0008. String to Integer (atoi)/0008. String to Integer (atoi).iml" />
       <module fileurl="file://$PROJECT_DIR$/0009. Palindrome Number/0009. Palindrome Number.iml" filepath="$PROJECT_DIR$/0009. Palindrome Number/0009. Palindrome Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" filepath="$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" />
@@ -100,6 +101,8 @@
       <module fileurl="file://$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" filepath="$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" />
       <module fileurl="file://$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" filepath="$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllTasksInLine.iml" filepath="$PROJECT_DIR$/AllTasksInLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 0006. Zigzag Conversion/Task 0006. Zigzag Conversion.iml" filepath="$PROJECT_DIR$/Task 0006. Zigzag Conversion/Task 0006. Zigzag Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 0013. Roman to Integer/Task 0013. Roman to Integer.iml" filepath="$PROJECT_DIR$/Task 0013. Roman to Integer/Task 0013. Roman to Integer.iml" />
     </modules>
   </component>
 </project>
