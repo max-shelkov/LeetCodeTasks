@@ -4,8 +4,6 @@ public class Solution {
 
         Solution solution = new Solution();
         int[] height = {1,3,2,5,25,24,5};
-//        int[] height = {1,8,6,2,5,4,8,3,7};
-//        int[] height = {1,1};
         long start = System.currentTimeMillis();
         int waterAmount = solution.maxArea(height);
         long finish = System.currentTimeMillis();
@@ -17,7 +15,7 @@ public class Solution {
 
 
     public int maxArea(int[] height) {
-        int water = 0;
+        int water;
         int waterMax = 0;
         int pointerLeft = 0;
         int pointerRight = height.length-1;
