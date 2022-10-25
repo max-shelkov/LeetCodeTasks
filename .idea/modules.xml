@@ -6,10 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/0002. Add Two Numbers/0002. Add Two Numbers.iml" filepath="$PROJECT_DIR$/0002. Add Two Numbers/0002. Add Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0003. Longest Substring Without Repeating Characters/0003. Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/0003. Longest Substring Without Repeating Characters/0003. Longest Substring Without Repeating Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/0005. Longest Palindromic Substring/0005. Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0006. Zigzag Conversion/0006. Zigzag Conversion.iml" filepath="$PROJECT_DIR$/0006. Zigzag Conversion/0006. Zigzag Conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/0007. Reverse Integer/0007. Reverse Integer.iml" filepath="$PROJECT_DIR$/0007. Reverse Integer/0007. Reverse Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0008. String to Integer (atoi)/0008. String to Integer (atoi).iml" filepath="$PROJECT_DIR$/0008. String to Integer (atoi)/0008. String to Integer (atoi).iml" />
       <module fileurl="file://$PROJECT_DIR$/0009. Palindrome Number/0009. Palindrome Number.iml" filepath="$PROJECT_DIR$/0009. Palindrome Number/0009. Palindrome Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0011. Container With Most Water/0011. Container With Most Water.iml" filepath="$PROJECT_DIR$/0011. Container With Most Water/0011. Container With Most Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0012. Integer to Roman/0012. Integer to Roman.iml" filepath="$PROJECT_DIR$/0012. Integer to Roman/0012. Integer to Roman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0013. Roman to Integer/0013. Roman to Integer.iml" filepath="$PROJECT_DIR$/0013. Roman to Integer/0013. Roman to Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0014. Longest Common Prefix/0014. Longest Common Prefix.iml" filepath="$PROJECT_DIR$/0014. Longest Common Prefix/0014. Longest Common Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0020. Valid Parentheses/0020. Valid Parentheses.iml" filepath="$PROJECT_DIR$/0020. Valid Parentheses/0020. Valid Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/0034. Find First and Last Position of Element in Sorted Array/0034. Find First and Last Position of Element in Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" filepath="$PROJECT_DIR$/0039. Combination Sum/0039. Combination Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0041. First Missing Positive/0041. First Missing Positive.iml" filepath="$PROJECT_DIR$/0041. First Missing Positive/0041. First Missing Positive.iml" />
@@ -102,10 +107,6 @@
       <module fileurl="file://$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" filepath="$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" />
       <module fileurl="file://$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" filepath="$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllTasksInLine.iml" filepath="$PROJECT_DIR$/AllTasksInLine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Task 0006. Zigzag Conversion/Task 0006. Zigzag Conversion.iml" filepath="$PROJECT_DIR$/Task 0006. Zigzag Conversion/Task 0006. Zigzag Conversion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Task 0011. Container With Most Water/Task 0011. Container With Most Water.iml" filepath="$PROJECT_DIR$/Task 0011. Container With Most Water/Task 0011. Container With Most Water.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Task 0012. Integer to Roman/Task 0012. Integer to Roman.iml" filepath="$PROJECT_DIR$/Task 0012. Integer to Roman/Task 0012. Integer to Roman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Task 0013. Roman to Integer/Task 0013. Roman to Integer.iml" filepath="$PROJECT_DIR$/Task 0013. Roman to Integer/Task 0013. Roman to Integer.iml" />
     </modules>
   </component>
 </project>
