@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/0047. Permutations II/0047. Permutations II.iml" filepath="$PROJECT_DIR$/0047. Permutations II/0047. Permutations II.iml" />
       <module fileurl="file://$PROJECT_DIR$/0054. Spiral Matrix/0054. Spiral Matrix.iml" filepath="$PROJECT_DIR$/0054. Spiral Matrix/0054. Spiral Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0056. Merge Intervals/0056. Merge Intervals.iml" filepath="$PROJECT_DIR$/0056. Merge Intervals/0056. Merge Intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0057. Insert Interval/Insert Interval/0057. Insert Interval.iml" filepath="$PROJECT_DIR$/0057. Insert Interval/Insert Interval/0057. Insert Interval.iml" />
       <module fileurl="file://$PROJECT_DIR$/0059. Spiral Matrix II/0059. Spiral Matrix II.iml" filepath="$PROJECT_DIR$/0059. Spiral Matrix II/0059. Spiral Matrix II.iml" />
       <module fileurl="file://$PROJECT_DIR$/0061. Rotate List/0061. Rotate List.iml" filepath="$PROJECT_DIR$/0061. Rotate List/0061. Rotate List.iml" />
       <module fileurl="file://$PROJECT_DIR$/0070. Climbing Stairs/0070. Climbing Stairs.iml" filepath="$PROJECT_DIR$/0070. Climbing Stairs/0070. Climbing Stairs.iml" />
@@ -111,6 +112,7 @@
       <module fileurl="file://$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" filepath="$PROJECT_DIR$/5531. Special Array With X Elements Greater Than or Equal X/5531. Special Array With X Elements Greater Than or Equal X.iml" />
       <module fileurl="file://$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" filepath="$PROJECT_DIR$/5532. Even Odd Tree/5532. Even Odd Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllTasksInLine.iml" filepath="$PROJECT_DIR$/AllTasksInLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0057. Insert Interval/Insert Interval.iml" filepath="$PROJECT_DIR$/0057. Insert Interval/Insert Interval.iml" />
     </modules>
   </component>
 </project>
